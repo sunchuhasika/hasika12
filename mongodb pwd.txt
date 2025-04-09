@@ -1,0 +1,6 @@
+mkdir mern-user-auth
+cd mern-user-auth
+npx create-react-app frontend
+mkdir backend
+cd backend
+npm init -y
